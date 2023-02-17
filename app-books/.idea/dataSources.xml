@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="app-books.test/Hibernate" uuid="12395457-43df-4cc4-b75a-36041c849875">
+      <imported>true</imported>
+      <configured-by-url>true</configured-by-url>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>org.postgresql.ds.PGSimpleDataSource</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/distribuida</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
